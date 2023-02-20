@@ -1,1 +1,5 @@
 add mod.ini
+add raw/stage/w1r03/w1r03_trr_cmn.pac
+add raw/stage/w1r04/w1r04_trr_cmn.pac
+add raw/stage/w2r01/w2r01_trr_cmn.pac
+add raw/stage/w3r01/w3r01_trr_cmn.pac
