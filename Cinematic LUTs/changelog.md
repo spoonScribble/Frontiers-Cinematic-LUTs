@@ -1,3 +1,6 @@
+## spoon's Cinematic LUTs v2.0.1
+- Forgot options.json, sorry
+
 ## spoon's Cinematic LUTs v2.0
 - Every single cyberspace stage has its own LUT (Can be toggled on or off)
 - The final boss stage now has its own LUT
