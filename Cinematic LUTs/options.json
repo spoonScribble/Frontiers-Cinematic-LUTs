@@ -1,0 +1,76 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "Customization",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "Cyberspace LUTs",
+               "Description": [
+                  "Enable or disable edited Cyberspace LUTs.",
+               ],
+               "Type": "CybNum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "cyberlut"
+            },
+			{
+               "Name": "IncludeDir1",
+               "DisplayName": "Rainy Kronos",
+               "Description": [
+                  "Enable or disable Kronos' cloudy/rainy LUT. Can conflict with other Kronos mods!",
+               ],
+               "Type": "RKronNum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "rainkronos"
+            },
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "CybNum": 
+	  [
+
+         {
+            "DisplayName": "Cyberspace LUTs",
+            "Value": "cyberlut",
+            "Description": [
+               "Enabled Cyberspace LUTs",
+            ]
+         },
+
+         {
+            "DisplayName": "None",
+            "Value": "empty",
+            "Description": [
+               "Disabled Cyberspace LUTs",
+            ]
+         },		 
+      ],
+	  "RKronNum": 
+	  [
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "rainkronos",
+            "Description": [
+               "Enabled rainy Kronos LUT",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "main",
+            "Description": [
+               "Disabled rainy Kronos LUT",
+            ]
+         },		 
+      ],
+	},  
+   "IniFile": "mod.ini"
+}
