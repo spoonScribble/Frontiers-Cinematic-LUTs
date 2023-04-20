@@ -1,3 +1,6 @@
+## spoon's Cinematic LUTs v2.0.2
+- jesus christ i accidentally tanked framerates with zoomBias set to 3. very sorry
+
 ## spoon's Cinematic LUTs v2.0.1
 - Forgot options.json, sorry
 
