@@ -1,3 +1,6 @@
+## spoon's Cinematic LUTs v2.0.3
+- Fixed collision on both Kronos and Rhea when Rainy Kronos was enabled.
+
 ## spoon's Cinematic LUTs v2.0.2
 - jesus christ i accidentally tanked framerates with zoomBias set to 3. very sorry
 
